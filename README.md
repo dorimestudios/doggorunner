@@ -1,6 +1,6 @@
 ## Welcome to DoggoRunner
 
-This is a 2D Parkour Dungeon Crawler-esqe Game made by [Dorime Games](https://dorimegames.gitgub.io)
+This is a 2D Parkour Dungeon Crawler-esqe Game made by [Dorime Games](https://dorimegames.github.io)
 
 ### Markdown
 
