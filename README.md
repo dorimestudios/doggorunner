@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DoggoRunner
 
-You can use the [editor on GitHub](https://github.com/dorimegames/doggorunner/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a 2D Parkour Dungeon Crawler-esqe Game made by [Dorime Games](https://dorimegames.gitgub.io)
 
 ### Markdown
 
